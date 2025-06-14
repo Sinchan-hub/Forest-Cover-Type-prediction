@@ -37,10 +37,10 @@ Getting Started
 Prerequisites
 To run the notebooks and replicate the results, you need the following software and libraries installed:
 
-Python 3.8 or higher
-Jupyter Notebook
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+-Python 3.8 or higher
+-Jupyter Notebook
+-pandas
+-numpy
+-scikit-learn
+-matplotlib
+-seaborn
